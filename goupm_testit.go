@@ -10,7 +10,7 @@
 
 // source: /export/users/neck/upm_go/src/testit/common.i
 
-package goupm_testit
+package testgoupm
 
 /*
 #define intgo swig_intgo
